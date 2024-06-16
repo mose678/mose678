@@ -6,7 +6,7 @@
 or 0113299473
 website
  https//moses.co.ke
-okoth@moses.co.ke
+email:okoth@moses.co.ke
   
 <!---
 mose678/mose678 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
